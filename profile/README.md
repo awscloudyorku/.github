@@ -43,9 +43,11 @@ This organization hosts:
 
 --- -->
 
-📧 Contact: awscloudclubyorku@gmail.com  
-🌐 Website: (coming soon)  
-📍 York University — Toronto, Canada
+- 📧 **Contact:** awscloudclubyorku@gmail.com
+- 🌐 **Discord:** [Community Discord](https://discord.gg/xd8UNzJnBx)
+- 🌐 **Website:** coming soon
+- 📍 **Location:** York University — Toronto, Canada
+
 
 ---
 
